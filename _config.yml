@@ -1,0 +1,17 @@
+title: Charlie Sither
+
+## Headshot photo
+logo: /assets/imgs/headshot.jpg
+
+## text to display in the header
+description: Data Scientist | Mosquito Biologist
+
+## repo download link
+show_downloads: true
+
+## repo theme, more can be found at 
+theme: jekyll-theme-minimal
+
+## Social media links
+#email: cb[surname]@gmail.com
+#github: github.com/cbsither
