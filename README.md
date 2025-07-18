@@ -24,7 +24,7 @@ B.S., Environmental Health | Western Carolina University (2011)<br>
 ## Maintained Packages
 
 **MCMetrics**:
-A python package for calculating conditional performance metrics for machine learning models. In implicitly calculates Bayesian credible intervals for each metric, allowing for a more robust evaluation of model performance with small- and medium-sized datasets. Additionally, it provides a suite of tools for visualizing model performance, metric comparisons, and model selection. The package is designed to be user-friendly and a low-code solution. [link](https://github.com/cbsither/Monte-Carlo-Metrics)
+A python package for calculating conditional performance metrics for machine learning models. In implicitly calculates Bayesian credible intervals for each metric, allowing for a more robust evaluation of model performance with small- and medium-sized datasets. Additionally, it provides a suite of tools for visualizing model performance, metric comparisons, and model selection. The package is designed to be user-friendly and a low-code solution. [link](https://github.com/cbsither/mcmetrics)
 
 ## Work Experience
 
