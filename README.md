@@ -1,4 +1,4 @@
-# Cirriculum Vitae
+# Curriculum Vitae
 
 Updated: October 25th, 2025
 
