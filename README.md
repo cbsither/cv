@@ -1,6 +1,6 @@
 # Cirriculum Vitae
 
-Updated: July 9th, 2025
+Updated: October 25th, 2025
 
 ## Table of Contents
 - [Education](#education)
