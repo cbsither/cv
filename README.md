@@ -28,6 +28,9 @@ A python package for calculating conditional performance metrics for machine lea
 
 ## Work Experience
 
+**AI/ML Applied Scientist I (September 2025 - Present)**<br>
+**Infinia ML, an Aspirion company, Durham, NC**
+
 **Data Scientist (December 2024 - May 2025)**<br>
 **National Institutes of Health, NIH Library, Bethesda, MD**
 - Performed consultations with NIH researchers to identify and address data science needs.
